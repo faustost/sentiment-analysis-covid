@@ -8,6 +8,8 @@ Tasks & skills:
 - using NLTK module to produce Polarity scores for each tweet  
 - visualizing the result of our analysis using line chart    
 
-Check it out! https://www.coursera.org/projects/sentimental-anlysis-on-covid-19-tweets-using-python
+Check out the project! https://www.coursera.org/projects/sentimental-anlysis-on-covid-19-tweets-using-python
+
+Proof of completion: http://coursera.org/verify/AFY2RCGUZ5NV
 
 Credits: Ahmad Varasteh
